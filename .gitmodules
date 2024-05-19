@@ -1,0 +1,3 @@
+[submodule "data-design"]
+	path = data-design
+	url = https://github.com/Graf-Research/terampil-b2b-data-design.git
